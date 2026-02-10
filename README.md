@@ -1,9 +1,11 @@
 # Unified Replication of Backdoor Attacks and Defenses in Deep Learning
- This master repository consolidates the finalized implementations of four different papers into a **single structured research artifact** for unified submission and comparative analysis.
 
-Each paper replicated in this work was originally implemented, evaluated, and maintained as a **separate standalone repository**.  
+This repository is a **combined submission repository** for four research papers that were replicated as part of my work on backdoor attacks and defenses in deep learning.
 
-### Original Individual Repositories
+Each paper was **originally implemented and evaluated in its own separate GitHub repository**.  
+Those individual repositories are still available and can be referred to for the complete development and experiment history.
+
+## Original Individual Repositories
 
 - **Attack 1 — Narcissus (CCS 2023)**  
   https://github.com/abhinavbibek/deakin_research_attack1
@@ -17,19 +19,17 @@ Each paper replicated in this work was originally implemented, evaluated, and ma
 - **Defense 2 — ASD: Adaptive Dataset Splitting (CVPR 2023)**  
   https://github.com/abhinavbibek/deakin_research_defense2
 
+This master repository only **brings the finalized code from all four works into a single place** to make review and submission easier.
 
+## Repository Structure
+
+```text
 ml-backdoor-attacks-and-defenses/
-│
-├── attack1/      # Narcissus: Clean-label backdoor attack (CCS 2023)
-├── attack2/      # COMBAT: Alternated training backdoor attack (AAAI 2024)
+├── attack1/      # Narcissus: clean-label backdoor attack (CCS 2023)
+├── attack2/      # COMBAT: alternated training backdoor attack (AAAI 2024)
 ├── defense1/     # Incompatibility Clustering (ISPL+B) defense (ICLR 2023)
-├── defense2/     # ASD defense: Adaptive dataset splitting (CVPR 2023)
-│
+├── defense2/     # ASD defense: adaptive dataset splitting (CVPR 2023)
 └── README.md
-
-The works cover:
-- two state-of-the-art clean-label backdoor attacks, and
-- two prominent training-time backdoor defenses, evaluated across standard benchmarks including **CIFAR-10**, **Tiny-ImageNet**, **CelebA**, and **GTSRB**.
 
 
 ## Part I — Backdoor Attack Replications

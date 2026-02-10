@@ -57,7 +57,6 @@ The works cover:
 attack1/
 ```
 
----
 
 ### Attack 2: COMBAT — AAAI 2024
 
@@ -107,7 +106,6 @@ attack2/
 defense1/
 ```
 
----
 
 ### Defense 2: ASD — CVPR 2023
 
@@ -133,7 +131,3 @@ defense1/
 defense2/
 ```
 
----
-
-
----

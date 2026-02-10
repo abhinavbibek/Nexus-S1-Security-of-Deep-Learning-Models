@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.eggs
+
+#  env files
+.env
+.venv/
+venv/
+env/
+ENV/
+pipenv-*
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs & run outputs
+*.log
+logs/
+runs/
+tensorboard/
+tb_logs/
+output/
+results/
+
+# Model weights / checkpoints / exports
+checkpoints/
+**/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.pb
+
+# Data / datasets (use git-lfs or external storage instead)
+data/
+dataset/
+*.npz
+*.npy
+
+# OS / misc
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+tmp/
+tmp-*/
+
+# Test / coverage / build
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+dist/
+build/
+*.whl
+
+# Other
+*.tgz
+*.tar.gz

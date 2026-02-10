@@ -1,0 +1,589 @@
+Dataset: datasets/cifar-backdoor-0-to-2-0.1.pickle
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+refit it 0
+poison_class: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [49, 577, 562, 58, 445, 601, 401, 607, 462, 743]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [36, 417, 312, 37, 245, 441, 218, 414, 340, 605]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [23, 223, 134, 23, 96, 282, 86, 165, 150, 340]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [12, 226, 123, 17, 109, 251, 78, 178, 157, 372]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [14, 229, 134, 20, 107, 264, 84, 190, 126, 363]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [68, 944, 526, 75, 434, 1036, 328, 680, 601, 1449]
+refit it 0
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [55, 699, 473, 329, 265, 198, 765, 571, 746, 451]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [34, 569, 279, 148, 148, 77, 572, 398, 574, 243]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [15, 368, 85, 47, 35, 14, 307, 170, 399, 87]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [15, 347, 119, 48, 36, 15, 291, 222, 368, 65]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [15, 336, 102, 58, 38, 16, 315, 196, 312, 75]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [76, 1430, 403, 197, 143, 68, 1230, 792, 1449, 309]
+refit it 0
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [495, 597, 380, 118, 522, 322, 407, 685, 497, 396]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [164, 529, 181, 44, 361, 220, 235, 563, 415, 284]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [26, 498, 37, 19, 120, 54, 87, 423, 205, 135]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [21, 509, 35, 24, 119, 33, 91, 375, 229, 121]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [30, 423, 46, 30, 121, 52, 91, 364, 224, 135]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [87, 1857, 163, 94, 504, 192, 341, 1574, 877, 476]
+refit it 0
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [938, 84, 358, 86, 551, 579, 691, 366, 310, 650]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [612, 18, 271, 61, 398, 434, 543, 150, 212, 382]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [374, 4, 74, 34, 147, 211, 365, 35, 95, 196]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [400, 3, 69, 37, 145, 257, 285, 33, 72, 207]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [424, 6, 61, 25, 139, 249, 294, 28, 72, 218]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [1569, 19, 262, 110, 621, 1054, 1166, 117, 322, 885]
+refit it 0
+poison_class: [0, 0, 93, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [501, 75, 819, 801, 403, 529, 278, 367, 286, 309]
+refit it 1
+poison_class: [0, 0, 32, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [423, 54, 354, 514, 140, 285, 150, 404, 311, 322]
+refit it 2
+poison_class: [0, 0, 9, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [204, 4, 224, 319, 59, 103, 71, 190, 179, 187]
+refit it 3
+poison_class: [0, 0, 8, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [220, 6, 210, 335, 47, 79, 59, 164, 172, 176]
+refit it 4
+poison_class: [0, 0, 3, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [235, 6, 220, 360, 36, 59, 60, 166, 161, 191]
+final poison_class: [0, 0, 27, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [868, 23, 828, 1399, 185, 287, 253, 705, 690, 756]
+refit it 0
+poison_class: [0, 0, 115, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [417, 118, 692, 736, 698, 528, 389, 270, 205, 213]
+refit it 1
+poison_class: [0, 0, 83, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [271, 84, 478, 560, 561, 477, 285, 52, 43, 169]
+refit it 2
+poison_class: [0, 0, 16, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [145, 8, 252, 308, 393, 78, 159, 7, 11, 131]
+refit it 3
+poison_class: [0, 0, 17, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [150, 9, 234, 301, 427, 55, 155, 12, 10, 113]
+refit it 4
+poison_class: [0, 0, 10, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [167, 8, 201, 359, 446, 26, 149, 9, 11, 97]
+final poison_class: [0, 0, 37, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [639, 28, 794, 1387, 1733, 99, 737, 44, 41, 520]
+refit it 0
+poison_class: [0, 0, 85, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [283, 176, 462, 377, 291, 567, 191, 146, 237, 139]
+refit it 1
+poison_class: [0, 0, 62, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [173, 99, 355, 63, 53, 408, 83, 15, 147, 29]
+refit it 2
+poison_class: [0, 0, 97, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [200, 74, 403, 28, 56, 441, 64, 16, 139, 9]
+refit it 3
+poison_class: [0, 0, 69, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [188, 80, 425, 26, 50, 432, 66, 13, 140, 8]
+final poison_class: [0, 0, 286, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [834, 280, 1705, 114, 190, 1754, 242, 61, 549, 34]
+refit it 0
+poison_class: [0, 0, 29, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [68, 55, 45, 405, 291, 92, 166, 206, 86, 52]
+refit it 1
+poison_class: [0, 0, 37, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [49, 68, 50, 407, 297, 73, 179, 198, 90, 71]
+refit it 2
+poison_class: [0, 0, 30, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [39, 59, 54, 414, 286, 70, 169, 225, 81, 87]
+final poison_class: [0, 0, 131, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [169, 244, 216, 1612, 1103, 246, 656, 925, 331, 367]
+refit it 0
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [51, 872, 259, 51, 192, 182, 683, 818, 820, 679]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [38, 636, 157, 39, 55, 58, 450, 670, 651, 331]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [17, 416, 33, 19, 22, 16, 184, 369, 370, 94]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [13, 413, 40, 17, 19, 16, 197, 376, 366, 102]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [18, 375, 36, 19, 21, 13, 211, 389, 364, 113]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [68, 1563, 132, 75, 75, 75, 816, 1573, 1448, 428]
+refit it 0
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [54, 765, 483, 154, 403, 384, 802, 609, 566, 376]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [44, 657, 246, 34, 223, 236, 611, 449, 312, 211]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [12, 553, 110, 21, 80, 92, 320, 188, 139, 58]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [29, 494, 109, 17, 76, 74, 325, 215, 135, 57]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [17, 502, 136, 18, 99, 90, 269, 220, 120, 57]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [76, 2070, 473, 85, 334, 353, 1193, 799, 539, 231]
+refit it 0
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [397, 226, 673, 486, 667, 485, 349, 64, 533, 650]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [143, 156, 518, 340, 454, 205, 160, 19, 457, 497]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [21, 68, 307, 135, 270, 123, 50, 14, 251, 287]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [28, 79, 331, 155, 268, 119, 57, 16, 253, 277]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [25, 81, 278, 150, 261, 128, 44, 13, 259, 276]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [87, 300, 1198, 582, 1042, 480, 218, 53, 1024, 1150]
+refit it 0
+poison_class: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [826, 101, 283, 637, 575, 587, 430, 95, 328, 616]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [637, 17, 134, 389, 476, 382, 296, 28, 274, 413]
+refit it 2
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [333, 9, 45, 95, 245, 196, 140, 11, 170, 265]
+refit it 3
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [371, 5, 37, 86, 274, 212, 164, 12, 150, 296]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [374, 5, 42, 75, 292, 188, 146, 17, 180, 263]
+final poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [1438, 26, 135, 333, 1043, 773, 612, 62, 597, 1054]
+refit it 0
+poison_class: [0, 0, 64, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [683, 159, 621, 842, 481, 351, 264, 404, 202, 480]
+refit it 1
+poison_class: [0, 0, 13, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [457, 106, 478, 618, 311, 156, 62, 358, 94, 354]
+refit it 2
+poison_class: [0, 0, 3, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [189, 29, 248, 369, 179, 38, 20, 207, 53, 221]
+refit it 3
+poison_class: [0, 0, 3, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [194, 22, 274, 344, 174, 34, 18, 201, 42, 226]
+refit it 4
+poison_class: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [196, 22, 312, 383, 173, 22, 15, 192, 44, 236]
+final poison_class: [0, 0, 8, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [738, 84, 1096, 1434, 633, 104, 64, 776, 161, 919]
+refit it 0
+poison_class: [0, 0, 131, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [546, 237, 504, 662, 382, 774, 471, 339, 296, 254]
+refit it 1
+poison_class: [0, 0, 84, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [396, 121, 271, 354, 165, 716, 430, 57, 239, 144]
+refit it 2
+poison_class: [0, 0, 38, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [185, 31, 66, 34, 68, 514, 330, 16, 181, 36]
+refit it 3
+poison_class: [0, 0, 37, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [200, 40, 88, 23, 72, 450, 390, 21, 159, 44]
+refit it 4
+poison_class: [0, 0, 43, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [205, 20, 81, 27, 97, 415, 362, 17, 164, 49]
+final poison_class: [0, 0, 159, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [865, 82, 343, 97, 351, 1765, 1435, 68, 705, 176]
+refit it 0
+poison_class: [0, 0, 74, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [245, 190, 389, 594, 322, 334, 129, 372, 80, 173]
+refit it 1
+poison_class: [0, 0, 34, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [105, 106, 248, 490, 65, 111, 4, 308, 15, 68]
+refit it 2
+poison_class: [0, 0, 39, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [91, 107, 246, 468, 47, 126, 11, 252, 12, 106]
+refit it 3
+poison_class: [0, 0, 60, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [86, 159, 276, 437, 16, 101, 9, 266, 8, 109]
+final poison_class: [0, 0, 244, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [346, 613, 1050, 1759, 86, 340, 38, 1112, 38, 427]
+refit it 0
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [179, 43, 77, 135, 339, 269, 87, 115, 116, 160]
+refit it 1
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [205, 27, 126, 114, 351, 261, 108, 110, 96, 122]
+refit it 2
+poison_class: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [217, 36, 108, 121, 354, 261, 126, 101, 83, 124]
+final poison_class: [0, 0, 6, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [803, 139, 385, 507, 1384, 1001, 455, 407, 390, 523]
+refit it 0
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [51, 775, 284, 59, 215, 218, 547, 723, 750, 919]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [29, 592, 136, 33, 112, 52, 298, 497, 522, 732]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [13, 275, 31, 23, 14, 27, 85, 293, 304, 497]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [11, 305, 38, 23, 18, 15, 82, 292, 302, 460]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [15, 306, 38, 16, 20, 19, 111, 279, 297, 462]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [68, 1242, 151, 75, 83, 75, 372, 1123, 1219, 1790]
+refit it 0
+poison_class: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [59, 568, 788, 139, 591, 506, 656, 435, 451, 391]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [49, 473, 544, 56, 384, 314, 470, 302, 265, 200]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [14, 294, 326, 20, 192, 177, 209, 135, 101, 57]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [21, 281, 319, 20, 202, 168, 221, 106, 122, 71]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [16, 287, 320, 18, 206, 174, 226, 130, 133, 55]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [76, 1099, 1304, 85, 762, 659, 898, 498, 492, 221]
+refit it 0
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [734, 515, 427, 416, 474, 111, 697, 471, 333, 410]
+refit it 1
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [371, 399, 301, 253, 309, 36, 486, 311, 210, 276]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [44, 279, 144, 131, 173, 23, 326, 165, 80, 149]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [58, 277, 140, 141, 171, 19, 328, 185, 93, 131]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [73, 293, 135, 130, 172, 17, 334, 178, 96, 143]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [230, 1088, 519, 505, 636, 85, 1335, 674, 379, 599]
+refit it 0
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [918, 299, 313, 580, 263, 641, 106, 391, 476, 446]
+refit it 1
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [825, 227, 127, 480, 149, 346, 33, 261, 284, 288]
+refit it 2
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [457, 114, 25, 186, 47, 132, 15, 153, 165, 178]
+refit it 3
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [462, 112, 29, 192, 47, 139, 15, 178, 170, 182]
+refit it 4
+poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [471, 105, 16, 230, 55, 142, 10, 154, 159, 171]
+final poison_class: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [1938, 447, 96, 774, 190, 550, 57, 619, 657, 718]
+refit it 0
+poison_class: [0, 0, 91, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [382, 73, 493, 619, 764, 547, 473, 215, 514, 314]
+refit it 1
+poison_class: [0, 0, 35, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [125, 24, 352, 262, 537, 387, 458, 153, 503, 173]
+refit it 2
+poison_class: [0, 0, 6, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [16, 8, 139, 22, 386, 152, 286, 64, 360, 89]
+refit it 3
+poison_class: [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [15, 7, 144, 32, 380, 192, 292, 68, 378, 47]
+refit it 4
+poison_class: [0, 0, 7, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [18, 7, 133, 34, 341, 186, 321, 55, 388, 45]
+final poison_class: [0, 0, 31, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [65, 33, 542, 105, 1448, 729, 1236, 238, 1535, 162]
+refit it 0
+poison_class: [0, 0, 109, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [549, 251, 548, 831, 443, 696, 230, 441, 122, 323]
+refit it 1
+poison_class: [0, 0, 70, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [403, 240, 383, 622, 166, 606, 89, 126, 53, 226]
+refit it 2
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [287, 136, 111, 419, 86, 179, 17, 89, 22, 112]
+refit it 3
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [282, 141, 109, 464, 59, 180, 12, 113, 19, 163]
+refit it 4
+poison_class: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [277, 111, 108, 474, 71, 186, 8, 112, 9, 153]
+final poison_class: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [1142, 441, 421, 1802, 264, 801, 43, 457, 28, 612]
+refit it 0
+poison_class: [0, 0, 102, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [220, 121, 462, 375, 329, 482, 229, 303, 163, 162]
+refit it 1
+poison_class: [0, 0, 75, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [43, 71, 237, 117, 148, 314, 173, 35, 126, 133]
+refit it 2
+poison_class: [0, 0, 92, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [10, 27, 297, 83, 153, 372, 169, 55, 103, 136]
+refit it 3
+poison_class: [0, 0, 89, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [11, 56, 282, 121, 116, 394, 152, 54, 77, 172]
+final poison_class: [0, 0, 353, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [55, 225, 1114, 451, 498, 1473, 646, 227, 393, 587]
+refit it 0
+poison_class: [0, 0, 12, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [156, 46, 192, 292, 259, 118, 85, 264, 31, 21]
+refit it 1
+poison_class: [0, 0, 12, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [202, 60, 204, 299, 286, 108, 38, 271, 35, 22]
+refit it 2
+poison_class: [0, 0, 17, 0, 0, 0, 0, 0, 0, 0]
+clean_class: [191, 52, 212, 275, 284, 134, 37, 278, 22, 28]
+final poison_class: [0, 0, 48, 0, 0, 0, 0, 0, 0, 0]
+final clean_class: [710, 226, 807, 1167, 1092, 466, 124, 1144, 102, 114]
+false_pos: 3257 | false_neg: 42 | true_pos: 458 | true_neg: 46243
+Accuracy for epoch 1: 50 %
+Accuracy for epoch 2: 71 %
+Accuracy for epoch 3: 79 %
+Accuracy for epoch 4: 83 %
+Accuracy for epoch 5: 86 %
+Accuracy for epoch 6: 88 %
+Accuracy for epoch 7: 89 %
+Accuracy for epoch 8: 90 %
+Accuracy for epoch 9: 91 %
+Accuracy for epoch 10: 92 %
+Accuracy for epoch 11: 92 %
+Accuracy for epoch 12: 93 %
+Accuracy for epoch 13: 93 %
+Accuracy for epoch 14: 94 %
+Accuracy for epoch 15: 94 %
+Accuracy for epoch 16: 95 %
+Accuracy for epoch 17: 95 %
+Accuracy for epoch 18: 95 %
+Accuracy for epoch 19: 95 %
+Accuracy for epoch 20: 96 %
+Accuracy for epoch 21: 96 %
+Accuracy for epoch 22: 96 %
+Accuracy for epoch 23: 96 %
+Accuracy for epoch 24: 96 %
+Accuracy for epoch 25: 96 %
+Accuracy for epoch 26: 96 %
+Accuracy for epoch 27: 96 %
+Accuracy for epoch 28: 96 %
+Accuracy for epoch 29: 97 %
+Accuracy for epoch 30: 97 %
+Accuracy for epoch 31: 97 %
+Accuracy for epoch 32: 97 %
+Accuracy for epoch 33: 97 %
+Accuracy for epoch 34: 97 %
+Accuracy for epoch 35: 97 %
+Accuracy for epoch 36: 97 %
+Accuracy for epoch 37: 97 %
+Accuracy for epoch 38: 97 %
+Accuracy for epoch 39: 97 %
+Accuracy for epoch 40: 97 %
+Accuracy for epoch 41: 97 %
+Accuracy for epoch 42: 97 %
+Accuracy for epoch 43: 97 %
+Accuracy for epoch 44: 97 %
+Accuracy for epoch 45: 97 %
+Accuracy for epoch 46: 97 %
+Accuracy for epoch 47: 97 %
+Accuracy for epoch 48: 97 %
+Accuracy for epoch 49: 97 %
+Accuracy for epoch 50: 97 %
+Accuracy for epoch 51: 97 %
+Accuracy for epoch 52: 97 %
+Accuracy for epoch 53: 97 %
+Accuracy for epoch 54: 97 %
+Accuracy for epoch 55: 97 %
+Accuracy for epoch 56: 97 %
+Accuracy for epoch 57: 97 %
+Accuracy for epoch 58: 97 %
+Accuracy for epoch 59: 97 %
+Accuracy for epoch 60: 97 %
+Accuracy for epoch 61: 97 %
+Accuracy for epoch 62: 97 %
+Accuracy for epoch 63: 97 %
+Accuracy for epoch 64: 97 %
+Accuracy for epoch 65: 97 %
+Accuracy for epoch 66: 97 %
+Accuracy for epoch 67: 97 %
+Accuracy for epoch 68: 97 %
+Accuracy for epoch 69: 97 %
+Accuracy for epoch 70: 97 %
+Accuracy for epoch 71: 97 %
+Accuracy for epoch 72: 97 %
+Accuracy for epoch 73: 97 %
+Accuracy for epoch 74: 97 %
+Accuracy for epoch 75: 97 %
+Accuracy for epoch 76: 97 %
+Accuracy for epoch 77: 97 %
+Accuracy for epoch 78: 97 %
+Accuracy for epoch 79: 97 %
+Accuracy for epoch 80: 97 %
+Accuracy for epoch 81: 97 %
+Accuracy for epoch 82: 97 %
+Accuracy for epoch 83: 97 %
+Accuracy for epoch 84: 97 %
+Accuracy for epoch 85: 97 %
+Accuracy for epoch 86: 97 %
+Accuracy for epoch 87: 97 %
+Accuracy for epoch 88: 97 %
+Accuracy for epoch 89: 97 %
+Accuracy for epoch 90: 97 %
+Accuracy for epoch 91: 97 %
+Accuracy for epoch 92: 97 %
+Accuracy for epoch 93: 97 %
+Accuracy for epoch 94: 97 %
+Accuracy for epoch 95: 98 %
+Accuracy for epoch 96: 97 %
+Accuracy for epoch 97: 98 %
+Accuracy for epoch 98: 97 %
+Accuracy for epoch 99: 98 %
+Accuracy for epoch 100: 97 %
+Accuracy for epoch 101: 99 %
+Accuracy for epoch 102: 99 %
+Accuracy for epoch 103: 99 %
+Accuracy for epoch 104: 99 %
+Accuracy for epoch 105: 99 %
+Accuracy for epoch 106: 99 %
+Accuracy for epoch 107: 99 %
+Accuracy for epoch 108: 99 %
+Accuracy for epoch 109: 99 %
+Accuracy for epoch 110: 99 %
+Accuracy for epoch 111: 99 %
+Accuracy for epoch 112: 99 %
+Accuracy for epoch 113: 99 %
+Accuracy for epoch 114: 99 %
+Accuracy for epoch 115: 99 %
+Accuracy for epoch 116: 99 %
+Accuracy for epoch 117: 99 %
+Accuracy for epoch 118: 99 %
+Accuracy for epoch 119: 99 %
+Accuracy for epoch 120: 99 %
+Accuracy for epoch 121: 99 %
+Accuracy for epoch 122: 99 %
+Accuracy for epoch 123: 99 %
+Accuracy for epoch 124: 99 %
+Accuracy for epoch 125: 99 %
+Accuracy for epoch 126: 99 %
+Accuracy for epoch 127: 99 %
+Accuracy for epoch 128: 99 %
+Accuracy for epoch 129: 99 %
+Accuracy for epoch 130: 99 %
+Accuracy for epoch 131: 99 %
+Accuracy for epoch 132: 99 %
+Accuracy for epoch 133: 99 %
+Accuracy for epoch 134: 99 %
+Accuracy for epoch 135: 99 %
+Accuracy for epoch 136: 99 %
+Accuracy for epoch 137: 99 %
+Accuracy for epoch 138: 99 %
+Accuracy for epoch 139: 99 %
+Accuracy for epoch 140: 99 %
+Accuracy for epoch 141: 99 %
+Accuracy for epoch 142: 99 %
+Accuracy for epoch 143: 99 %
+Accuracy for epoch 144: 100 %
+Accuracy for epoch 145: 99 %
+Accuracy for epoch 146: 99 %
+Accuracy for epoch 147: 99 %
+Accuracy for epoch 148: 99 %
+Accuracy for epoch 149: 99 %
+Accuracy for epoch 150: 99 %
+Accuracy for epoch 151: 99 %
+Accuracy for epoch 152: 99 %
+Accuracy for epoch 153: 99 %
+Accuracy for epoch 154: 99 %
+Accuracy for epoch 155: 99 %
+Accuracy for epoch 156: 99 %
+Accuracy for epoch 157: 99 %
+Accuracy for epoch 158: 99 %
+Accuracy for epoch 159: 99 %
+Accuracy for epoch 160: 99 %
+Accuracy for epoch 161: 99 %
+Accuracy for epoch 162: 99 %
+Accuracy for epoch 163: 99 %
+Accuracy for epoch 164: 99 %
+Accuracy for epoch 165: 99 %
+Accuracy for epoch 166: 99 %
+Accuracy for epoch 167: 99 %
+Accuracy for epoch 168: 99 %
+Accuracy for epoch 169: 99 %
+Accuracy for epoch 170: 99 %
+Accuracy for epoch 171: 100 %
+Accuracy for epoch 172: 99 %
+Accuracy for epoch 173: 99 %
+Accuracy for epoch 174: 99 %
+Accuracy for epoch 175: 99 %
+Accuracy for epoch 176: 99 %
+Accuracy for epoch 177: 99 %
+Accuracy for epoch 178: 99 %
+Accuracy for epoch 179: 99 %
+Accuracy for epoch 180: 99 %
+Accuracy for epoch 181: 99 %
+Accuracy for epoch 182: 99 %
+Accuracy for epoch 183: 99 %
+Accuracy for epoch 184: 99 %
+Accuracy for epoch 185: 99 %
+Accuracy for epoch 186: 99 %
+Accuracy for epoch 187: 99 %
+Accuracy for epoch 188: 99 %
+Accuracy for epoch 189: 99 %
+Accuracy for epoch 190: 99 %
+Accuracy for epoch 191: 99 %
+Accuracy for epoch 192: 99 %
+Accuracy for epoch 193: 99 %
+Accuracy for epoch 194: 100 %
+Accuracy for epoch 195: 99 %
+Accuracy for epoch 196: 99 %
+Accuracy for epoch 197: 99 %
+Accuracy for epoch 198: 99 %
+Accuracy for epoch 199: 99 %
+Accuracy for epoch 200: 99 %
+clean accuracy: 0.9291
+poison misclassification: 0.02200000174343586
+targeted misclassification: 0.0020000000949949026

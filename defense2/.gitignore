@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model checkpoints & training artifacts
+*.pt
+saved_data/
+storage/
+
+# Python multiprocessing temp dirs
+pymp-*
+
+# Logs
+*.log
+data/**/*.pkl

@@ -18,39 +18,18 @@ Each paper replicated in this work was originally implemented, evaluated, and ma
   https://github.com/abhinavbibek/deakin_research_defense2
 
 
-
----
-
-## Master Repository Structure
-
 ml-backdoor-attacks-and-defenses/
 │
-├── attack1/ # Narcissus: Clean-label backdoor attack (CCS 2023)
-├── attack2/ # COMBAT: Alternated training backdoor attack (AAAI 2024)
-├── defense1/ # Incompatibility Clustering (ISPL+B) defense (ICLR 2023)
-├── defense2/ # ASD defense: Adaptive dataset splitting (CVPR 2023)
+├── attack1/      # Narcissus: Clean-label backdoor attack (CCS 2023)
+├── attack2/      # COMBAT: Alternated training backdoor attack (AAAI 2024)
+├── defense1/     # Incompatibility Clustering (ISPL+B) defense (ICLR 2023)
+├── defense2/     # ASD defense: Adaptive dataset splitting (CVPR 2023)
 │
 └── README.md
 
-
-Each directory corresponds one-to-one with its original standalone repository and preserves the original implementation logic, dataset pipelines, experimental scripts, and reported results.
-
----
-
-## Overview
-
-This repository unifies **four peer-reviewed research paper replications** in the domain of **backdoor attacks and defenses in deep learning models**.
-
-The objective of this consolidation is to:
-- present attack and defense mechanisms side by side,
-- simplify review and submission workflows,
-- and provide a coherent, reproducible research artifact.
-
 The works cover:
 - two state-of-the-art clean-label backdoor attacks, and
-- two prominent training-time backdoor defenses,
-
-evaluated across standard benchmarks including **CIFAR-10**, **Tiny-ImageNet**, **CelebA**, and **GTSRB**.
+- two prominent training-time backdoor defenses, evaluated across standard benchmarks including **CIFAR-10**, **Tiny-ImageNet**, **CelebA**, and **GTSRB**.
 
 ---
 
@@ -74,8 +53,9 @@ evaluated across standard benchmarks including **CIFAR-10**, **Tiny-ImageNet**, 
 - Tiny-ImageNet (Domain-Adapted ImageNet Surrogate)
 
 **Location**
+```
 attack1/
-
+```
 
 ---
 
@@ -95,8 +75,9 @@ attack1/
 - CelebA
 
 **Location**
+```
 attack2/
-
+```
 
 ---
 
@@ -122,8 +103,9 @@ attack2/
 - GTSRB
 
 **Location**
+```
 defense1/
-
+```
 
 ---
 
@@ -147,23 +129,11 @@ defense1/
 - GTSRB
 
 **Location**
+```
 defense2/
-
-
----
-
-## Reproducibility Statement
-
-- All implementations were independently developed and validated prior to consolidation.
-- No algorithmic or methodological changes were introduced during unification.
-- Each subdirectory retains its original experiment scripts, configurations, and evaluation pipelines.
-- Minor numerical deviations fall within expected stochastic variation.
+```
 
 ---
 
-## Intended Use
-
-This repository is intended **strictly for academic research and reproducibility**.  
-The implementations should not be used in real-world systems without proper authorization.
 
 ---

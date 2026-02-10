@@ -31,7 +31,6 @@ The works cover:
 - two state-of-the-art clean-label backdoor attacks, and
 - two prominent training-time backdoor defenses, evaluated across standard benchmarks including **CIFAR-10**, **Tiny-ImageNet**, **CelebA**, and **GTSRB**.
 
----
 
 ## Part I — Backdoor Attack Replications
 
@@ -78,7 +77,6 @@ attack1/
 attack2/
 ```
 
----
 
 ## Part II — Backdoor Defense Replications
 
